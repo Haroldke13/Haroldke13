@@ -6,9 +6,9 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/Haroldke13?tab=repositories"><img alt="Repositories" src="https://img.shields.io/badge/public%20repositories-52-2dd4bf?style=flat-square"></a>
+  <a href="https://github.com/Haroldke13?tab=repositories"><img alt="Repositories" src="https://img.shields.io/badge/public%20repositories-53-2dd4bf?style=flat-square"></a>
+  <a href="https://harold-datascience.co.ke/"><img alt="Portfolio" src="https://img.shields.io/badge/portfolio-harold--datascience.co.ke-1f5f4b?style=flat-square"></a>
   <a href="https://livestream.harold-datascience.co.ke/"><img alt="Live" src="https://img.shields.io/badge/live-livestream%20radio-0ea5e9?style=flat-square"></a>
-  <a href="https://mpikipiki.harold-datascience.co.ke/"><img alt="Live" src="https://img.shields.io/badge/live-mpikipiki-0ea5e9?style=flat-square"></a>
   <img alt="Since" src="https://img.shields.io/badge/on%20github-since%202017-64748b?style=flat-square">
 </p>
 
