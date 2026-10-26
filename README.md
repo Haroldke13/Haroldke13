@@ -1,31 +1,80 @@
 <h1 align="center">Joel Harold Onyango</h1>
 
 <p align="center">
-  <b>ICT Programmer · Data Scientist · Python Developer</b><br>
-  Building across multiple languages — Remote, Kenya 🇰🇪
+  <b>Data Analyst · Python &amp; Flask Developer · Statistician</b><br>
+  Kenya 🇰🇪 — available for <b>remote contract, freelance and full-time</b> work
 </p>
 
 <p align="center">
-  <a href="https://github.com/Haroldke13?tab=repositories"><img alt="Repositories" src="https://img.shields.io/badge/public%20repositories-53-2dd4bf?style=flat-square"></a>
-  <a href="https://harold-datascience.co.ke/"><img alt="Portfolio" src="https://img.shields.io/badge/portfolio-harold--datascience.co.ke-1f5f4b?style=flat-square"></a>
+  <a href="mailto:joelharold@ymail.com"><img alt="Email" src="https://img.shields.io/badge/email-joelharold%40ymail.com-1f5f4b?style=flat-square&logo=maildotru&logoColor=white"></a>
+  <a href="https://ke.linkedin.com/in/joel-harold-onyango-la496668b"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white"></a>
+  <a href="https://harold-datascience.co.ke/"><img alt="Portfolio" src="https://img.shields.io/badge/portfolio-harold--datascience.co.ke-2dd4bf?style=flat-square"></a>
   <a href="https://livestream.harold-datascience.co.ke/"><img alt="Live" src="https://img.shields.io/badge/live-livestream%20radio-0ea5e9?style=flat-square"></a>
-  <img alt="Since" src="https://img.shields.io/badge/on%20github-since%202017-64748b?style=flat-square">
+  <img alt="Availability" src="https://img.shields.io/badge/open%20to-remote%20work-16a34a?style=flat-square">
 </p>
+
+---
+
+### Hire me for
+
+|   |   |
+|---|---|
+| **Data analysis &amp; reporting** | Cleaning messy real-world data, statistical modelling and visualisation people actually read. Python (pandas, NumPy), R, SQL, Excel, SPSS, Tableau, Power BI. |
+| **Flask &amp; FastAPI web applications** | Data-backed apps end to end — authentication, APIs, SQLAlchemy models, PostgreSQL / MySQL / MongoDB / SQLite, Docker and Gunicorn configurations. |
+| **Automation &amp; browser tooling** | Chrome extensions, scrapers and scheduled jobs that move data between systems so nobody has to retype it. |
+| **Speech, vision &amp; LLM features** | Local transcription with faster-whisper, Hugging Face speech and translation models, OpenCV, and LLM APIs wired into interfaces you can click. |
+| **ICT support &amp; digitization** | Records digitization, help-desk workflows, asset registers and data-security practice in public-sector and hospital settings. |
+| **Data quality &amp; QA** | Source traceability, spreadsheet validation, data-entry checks and manual mobile-testing documentation with evidence capture. |
 
 ---
 
 ### About
 
-ICT programmer working across several languages and stacks. Most of my public
-work is **Python** — Flask web applications, data analysis, scrapers and
-automation — alongside front-end work in HTML, CSS and JavaScript.
+Statistics and IT practitioner. My background is public-sector statistical
+research, health records, digitization and technical support — and I build the
+software to go with it: Flask web applications, data pipelines, computer vision,
+local speech processing and structured research workflows.
 
-I work extensively **with AI** — building AI-assisted applications, using LLMs as
-part of the development process, and shipping projects that combine models with
-real interfaces: transcription, translation, computer vision, and chat.
+I like problems that run end to end. Not just the model or the endpoint, but the
+data cleaning before it, the interface on top of it, and the thing a non-technical
+colleague actually clicks on Monday morning. Recent private work includes a
+regulatory compliance register and an ERP built on Flask and PostgreSQL, document
+and gate-pass automation driven from spreadsheets, and a family of Chrome
+extensions for live market data.
 
-I build tools that solve a concrete problem end to end: not just the model or
-the endpoint, but the indexing, the interface, and the thing you actually click.
+I work with AI as a tool, not a slogan: LLMs in the development loop, and shipped
+features built on transcription, translation and vision models.
+
+---
+
+### Experience — data &amp; IT
+
+| Role | Where | When |
+|---|---|---|
+| Digitization Agent | Tamu Law Courts | Apr – Aug 2023 |
+| Health Records &amp; IT Intern | Jaramogi Oginga Odinga Teaching &amp; Referral Hospital | Apr – Dec 2022 |
+| Undergraduate Research Intern | Kenya National Bureau of Statistics | Jan – May 2021 |
+| Data Entry Clerk | Marwa Health Cover (Universal Health Coverage pilot) | Sep – Dec 2020 |
+| Health Records &amp; IT Volunteer | Jaramogi Oginga Odinga Teaching &amp; Referral Hospital | Jun – Dec 2019 |
+| Data Clerk | National Hospital Insurance Fund | Jun – Oct 2018 |
+
+At KNBS I worked on education and employment statistics for Kisumu County,
+analysed CPI data and supported wealth-distribution reporting. At JOOTRH I
+installed and configured hospital software and managed DHIS Kenya disease data.
+Currently employed outside the field (Skymart Supermarket, since March 2025)
+while taking on remote technical work.
+
+---
+
+### Education
+
+- **MSc Data Science** — Open University of Kenya · *in progress*
+- **BSc Applied Statistics with IT** — Maseno University · Sep 2017 – Feb 2022
+  <br><sub>Data management, visualisation and programming in R, Python and SQL.</sub>
+- **KCSE** — Homa Bay School · A− (77 points)
+
+Completed coursework in the OpenAI API and AI agents, plus a Python/R statistical
+coding bootcamp.
 
 ---
 
@@ -33,20 +82,33 @@ the endpoint, but the indexing, the interface, and the thing you actually click.
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![R](https://img.shields.io/badge/R-276DC3?style=flat-square&logo=r&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=openjdk&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=tableau&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 ![LLM APIs](https://img.shields.io/badge/LLM%20APIs-412991?style=flat-square&logo=openai&logoColor=white)
 ![Speech to Text](https://img.shields.io/badge/Speech%20to%20Text-0ea5e9?style=flat-square)
+
+---
+
+### Deployed
+
+- **[harold-datascience.co.ke](https://harold-datascience.co.ke/)** — personal site and online portfolio.
+- **[livestream.harold-datascience.co.ke](https://livestream.harold-datascience.co.ke/)** — livestream radio site.
 
 ---
 
@@ -174,7 +236,7 @@ A deliberate batch: small Flask applications and deliverables built against real
 ---
 
 <p align="center">
-  <sub>Currently at <b>Elevate Creatives</b> · open to collaboration</sub>
+  <sub>Open to remote contract, freelance and full-time work · <a href="mailto:joelharold@ymail.com">joelharold@ymail.com</a></sub>
 </p>
 
 ## Licence
